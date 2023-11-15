@@ -37,26 +37,26 @@
       "id": 73930387
     },
     {
-      "cityName": "Bucharest",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2023-08-21T08:37:47.114Z",
-      "notes": "Frumos",
+      "cityName": "Naples",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-08-13T20:32:31.720Z",
+      "notes": "Mi a placut mult\n",
       "position": {
-        "lat": "44.4270377479225",
-        "lng": "26.09137058258057"
+        "lat": "40.86296564025515",
+        "lng": "14.285917282104492"
       },
       "id": 73930388
     },
     {
-      "cityName": "Bucharest",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2023-08-21T08:38:03.303Z",
+      "cityName": "Naples",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-08-13T20:32:58.895Z",
       "notes": "",
       "position": {
-        "lat": "44.4446881391843",
-        "lng": "26.141109466552738"
+        "lat": "40.88691373874854",
+        "lng": "14.247722625732424"
       },
       "id": 73930389
     }
